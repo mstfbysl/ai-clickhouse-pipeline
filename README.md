@@ -1,4 +1,4 @@
-# Python Bulk Processor
+# AI Clickhouse Pipeline
 
 A Python application for bulk processing records from ClickHouse using AI services and storing results in MongoDB.
 
